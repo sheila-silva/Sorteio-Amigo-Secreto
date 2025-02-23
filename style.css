@@ -62,12 +62,12 @@ body {
 
 /* Títulos */
 .main-title {
-    font-size: 90px;
+    font-size: 60px;
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
     color: var(--color-beige);
-    margin-top: 190px;
+    margin-top: 180px;
 
 }
 
