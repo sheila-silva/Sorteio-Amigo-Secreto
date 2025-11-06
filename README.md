@@ -6,7 +6,7 @@
 ******* 
 
 # Sorteio Amigo Secreto 
-Este é um programa que realiza sorteios de amigo secreto. O usuário deverá adicionar os participantes um a um em determinado local na tela e, ao final da adição, bastará somente apertar o botão de sorteio para ver o resultado dos nomes sorteados na lista. Este programa gera uma interface simples, na qual adicionei uma nova função: **"reiniciar sorteio"**, evitando que o usuário precise sair do site e entrar novamente para reiniciar o jogo. Este projeto faz parte do desafio de código: Fase de Seleção ONE G8 BR, que é uma trilha de aprendizagem e especialização da ORACLE em parceria com a ALURA.
+Este é um programa que realiza sorteios de amigo secreto. O usuário deverá adicionar os participantes um a um em determinado local na tela e, ao final da adição, bastará somente apertar o botão de sorteio para ver o resultado dos nomes sorteados na lista. Este programa gera uma interface simples, na qual adicionei uma nova função: **"reiniciar sorteio"**, evitando que o usuário precise sair do site e entrar novamente para reiniciar o jogo. Este projeto faz parte do desafio de código: Fase de Seleção ONE G8 BR.
 
 Este código é
 
@@ -24,6 +24,6 @@ Versionado com:
 
 Secret Santa Draw
 
-This is a program that performs secret santa draws. The user must add participants one by one in a specific area on the screen, and at the end of the addition, they will just need to press the draw button to see the result of the names drawn in the list. This program generates a simple interface, in which I added a new feature: "restart draw," preventing the user from needing to leave the page and re-enter to restart the game. This project is part of the coding challenge: ONE G8 BR Selection Phase, which is a learning and specialization track by ORACLE in partnership with ALURA.
+This is a program that performs secret santa draws. The user must add participants one by one in a specific area on the screen, and at the end of the addition, they will just need to press the draw button to see the result of the names drawn in the list. This program generates a simple interface, in which I added a new feature: "restart draw," preventing the user from needing to leave the page and re-enter to restart the game. This project is part of the coding challenge: ONE G8 BR Selection Phase. 
 
 This code consists of  HTML, CSS and Java Script. Created in Linux and VSCode. Versioned in Git 
