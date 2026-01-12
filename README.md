@@ -6,25 +6,104 @@
 ******* 
 
 # Sorteio Amigo Secreto 
-Este é um programa que realiza sorteios de amigo secreto. O usuário deverá adicionar os participantes um a um em determinado local na tela e, ao final da adição, bastará somente apertar o botão de sorteio para ver o resultado dos nomes sorteados na lista. Este programa gera uma interface simples, na qual adicionei uma nova função: **"reiniciar sorteio"**, evitando que o usuário precise sair do site e entrar novamente para reiniciar o jogo. Este projeto faz parte do desafio de código: Fase de Seleção ONE G8 BR.
+Este projeto consiste em uma aplicação web interativa para a realização de sorteios de Amigo Secreto, desenvolvida utilizando HTML5, CSS3 e JavaScript puro. A aplicação foi projetada para permitir o cadastro dinâmico de participantes, realizar o sorteio de forma justa e aleatória, e exibir os resultados diretamente na interface, sem a necessidade de recarregar a página.
 
-Este código é
+Todo o processamento ocorre no lado do cliente (front-end), o que torna a aplicação leve, rápida e de fácil execução.
 
-Composto por: 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)
 
-Criado em: ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
+<br>
 
-Versionado com: 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+⚙️ **Funcionalidades**
 
-*******
-*******
+-Adição dinâmica de participantes por meio de um campo de entrada
 
-Secret Santa Draw
+-Validação para impedir nomes vazios
 
-This is a program that performs secret santa draws. The user must add participants one by one in a specific area on the screen, and at the end of the addition, they will just need to press the draw button to see the result of the names drawn in the list. This program generates a simple interface, in which I added a new feature: "restart draw," preventing the user from needing to leave the page and re-enter to restart the game. This project is part of the coding challenge: ONE G8 BR Selection Phase. 
+-Exibição em tempo real da lista de participantes
 
-This code consists of  HTML, CSS and Java Script. Created in Linux and VSCode. Versioned in Git 
+-Sorteio automático e aleatório de Amigo Secreto
+
+-Garantia de que nenhum participante sorteie a si mesmo
+
+-Exibição clara e organizada dos resultados
+
+-Opção de reiniciar o sorteio e iniciar uma nova rodada
+
+<br>
+<br>
+
+🧠 **Lógica de Funcionamento**
+
+-Os nomes dos participantes são armazenados em um array JavaScript.
+
+-No momento do sorteio, o array é copiado e embaralhado utilizando o algoritmo Fisher-Yates, garantindo aleatoriedade e imparcialidade.
+
+-Cada participante é associado ao próximo nome da lista embaralhada, sendo o último associado ao primeiro, evitando auto-sorteio.
+
+-Os resultados são renderizados dinamicamente no DOM.
+
+<br>
+<br>
+
+🎨 **Tecnologias Utilizadas**
+
+-HTML5 – Estruturação semântica da aplicação
+
+-CSS3 – Estilização, layout responsivo e identidade visual
+
+-JavaScript (ES6+) – Lógica da aplicação e manipulação do DOM
+
+-Google Fonts – Tipografia personalizada
+
+-Vercel
+
+<br>
+<br>
+
+🖥️ **Como Executar o Projeto**
+
+1.Clone este repositório:
+````
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+````
+2.Acesse a pasta do projeto.
+
+3.Abra o arquivo index.html em qualquer navegador moderno.
+
+4.Adicione os nomes dos participantes.
+
+5.Clique em “Sortear Amigo” para realizar o sorteio.
+
+6.Utilize “Reiniciar Sorteio” para iniciar uma nova rodada.
+
+<br>
+<br>
+
+# Agradecimentos / Referências 
+
+Alura - Cursos On Line de Tecnologia 
+
+Oracle - Oracle Next Education - ONE
+
+
+<br>
+
+
+----------
+
+
+# Autora:
+
+Sheila M. M. L. Silva 
+
+https://www.linkedin.com/in/sheilasheila/
+
+
+
+
+
+
+
