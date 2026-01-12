@@ -13,7 +13,6 @@ Todo o processamento ocorre no lado do cliente (front-end), o que torna a aplica
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)
 
 <br>
-<br>
 
 **Acesse o projeto em:** https://amigo-secreto-sorteio-ten.vercel.app/
 
