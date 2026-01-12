@@ -15,7 +15,7 @@ Todo o processamento ocorre no lado do cliente (front-end), o que torna a aplica
 <br>
 <br>
 
-Acesse o projeto em: https://amigo-secreto-sorteio-ten.vercel.app/
+**Acesse o projeto em:** https://amigo-secreto-sorteio-ten.vercel.app/
 
 <br>
 <br>
